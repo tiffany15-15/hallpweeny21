@@ -5,5 +5,7 @@ Another heading(like an h2)
 -----
 
 # kind of like h1
+##
 ##kind of like h2
+###
 ###kind of like h3
